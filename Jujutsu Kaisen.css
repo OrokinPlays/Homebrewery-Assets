@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Jujutsu Kaisen';
+    src: url('fonts/Jujutsu-Kaisen.eot');
+    src: url('fonts/Jujutsu-Kaisen.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Jujutsu-Kaisen.woff2') format('woff2'),
+         url('fonts/Jujutsu-Kaisen.woff') format('woff'),
+         url('fonts/Jujutsu-Kaisen.ttf')  format('truetype'),
+         url('fonts/Jujutsu-Kaisen.svg#Jujutsu Kaisen') format('svg');
+}
