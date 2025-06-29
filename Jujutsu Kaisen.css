@@ -2,7 +2,7 @@
     font-family: 'Jujutsu Kaisen';
     src: url('/Jujutsu-Kaisen.eot');
     src: url('/Jujutsu-Kaisen.eot?#iefix') format('embedded-opentype'),
-         url('/Jujutsu-Kaisen.woff2') format('woff2'),
+         url('./Jujutsu-Kaisen.woff2') format('woff2'),
          url('/Jujutsu-Kaisen.woff') format('woff'),
          url('/Jujutsu-Kaisen.ttf')  format('truetype'),
          url('/Jujutsu-Kaisen.svg#Jujutsu Kaisen') format('svg');
