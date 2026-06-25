@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Sekaiwo-Regular';
+    src: url('/Sekaiwo-Regular.eot');
+    src: url('/Sekaiwo-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./Sekaiwo-Regular.woff2') format('woff2'),
+         url('/Sekaiwo-Regular.woff') format('woff'),
+         url('/Sekaiwo-Regular.ttf')  format('truetype'),
+         url('/Sekaiwo-Regular.svg#Sekaiwo-Regular') format('svg');
+}
